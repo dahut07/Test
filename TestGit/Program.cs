@@ -14,6 +14,7 @@ namespace TestGit
             //J'ai fais une modif
             //plop
             //plop 2
+            //plop 3
         }
     }
 }
